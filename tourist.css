@@ -1,0 +1,114 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+.headstyle{
+  text-align:center;
+  color:fushsia;
+  font-weight:bolder;
+  font-family:Lobster;
+  text-decoration:underline;
+  font-size:40px;
+  padding:10px;
+}
+.parastyle{
+  color:#990066;
+  text-align:center;
+  font-weight:bolder;
+}
+.parastyler{
+  text-align:center;
+  color:#ff0066;
+  font-weight:bolder;
+}
+.buttonstyle{
+  font-weight:bolder;
+  background-color:green;
+  color:white;
+  text-align:center;
+  border:none;
+  padding:10px;
+  border-top-left-radius:20px;
+  border-bottom-right-radius:20px;
+ }
+.bodystyle{
+  background-image:url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTyxxJhhO1-6kxrYKW1prrnQND9YRu3n5wFhg&s");
+  background-size:cover;
+  height:100vh;
+ }
+.background{
+  background-color:#ffffff;
+
+  }
+.imagestyle{
+  height:100px;
+  width:200px;
+}
+.backgroundstyle{
+  background-image:url("https://shotkit.com/wp-content/uploads/2023/02/Beautiful-sky-photography-lisa-fotios.jpeg");
+background-size:cover;
+height:120vh;
+}
+.headingstyle{
+  background-color:rgb(219, 229, 230);
+  padding:24px;
+  border-radius:20px;
+  border-color:maroon;
+}
+.heading{
+  text-align:center;
+  font-family:lobster;
+  color:white;
+  text-decoration:underline;
+  padding:15px;
+}
+.sideheading{
+  color:#006655;
+  font-family:roboto;
+}
+.paragraphstyle{
+  color:#1509f1;
+  font-family:roboto;
+}
+  .buttonstyler{
+    color:white;
+    background-color:green;
+    border-radius:15px;
+    padding:7px;
+  }
+  .imagestyle1{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    padding-top:15px;
+    width: 50%;
+    height: 500px;
+
+}
+.background1{
+    background-image:url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSgN_a85TzHi7hGbdKkSYD0oPvkOMSP3K_djA&s");
+    background-size:cover;
+    height:100vh;
+}
+.parabg{
+    background-color:bisque;
+    padding-top:15px;
+}
+.parastyle1{
+    text-align:justify;
+    padding:20px;
+}
+.btnstyle{
+    color:white;
+    background-color:green;
+    size:15px;
+    border-radius:18px;
+    padding:10px;
+}
+.headingstyle2{
+    font-family:roboto;
+    color:darkblue;
+    
+}
+.background2{
+  background-image:url("https://cdn.shopify.com/s/files/1/0548/7244/1000/files/87_1024x1024.png?v=1651151093");
+  background-size:cover;
+  height:100vh;
+}
